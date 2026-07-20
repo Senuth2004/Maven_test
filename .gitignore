@@ -1,0 +1,29 @@
+# Maven build output
+/target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+/.idea/
+*.iml
+
+# Local environment files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper and local repository
+.mvn/
+# Optional: if you use the wrapper
+# mvnw
+# mvnw.cmd
+
+# Eclipse derived resources
+*.tmp
+*.bak
+*.swp
+
+# Logs
+*.log
